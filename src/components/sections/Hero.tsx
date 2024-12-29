@@ -17,12 +17,12 @@ const Hero = () => (
           </dd>
         </dl>
   
-        <ul className="list-disc pl-6 text-gray-400 space-y-2">
+        <ul className="list-disc pl-6 text-white font-bold space-y-2">
           <li>Documentation, Backup and Recovery</li>
           <li>Easy Collaboration</li>
         </ul>
   
-        <button className="px-4 py-2 rounded border-2 border-gray-900">
+        <button className="px-4 py-2 rounded border-2 border-gray-900 font-bold">
           Import source code
         </button>
       </div>
